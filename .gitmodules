@@ -1,3 +1,0 @@
-[submodule "jni/utils/And64InlineHook"]
-	path = jni/utils/And64InlineHook
-	url = https://github.com/Rprop/And64InlineHook.git
